@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/3gvisions/hooktodo/static/css/main.9886f738.chunk.css",
-    "main.js": "/3gvisions/hooktodo/static/js/main.cf3debfe.chunk.js",
-    "main.js.map": "/3gvisions/hooktodo/static/js/main.cf3debfe.chunk.js.map",
+    "main.js": "/3gvisions/hooktodo/static/js/main.1da24e6f.chunk.js",
+    "main.js.map": "/3gvisions/hooktodo/static/js/main.1da24e6f.chunk.js.map",
     "runtime-main.js": "/3gvisions/hooktodo/static/js/runtime-main.31c7a7cb.js",
     "runtime-main.js.map": "/3gvisions/hooktodo/static/js/runtime-main.31c7a7cb.js.map",
     "static/js/2.ef4a8d3d.chunk.js": "/3gvisions/hooktodo/static/js/2.ef4a8d3d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.31c7a7cb.js",
     "static/js/2.ef4a8d3d.chunk.js",
     "static/css/main.9886f738.chunk.css",
-    "static/js/main.cf3debfe.chunk.js"
+    "static/js/main.1da24e6f.chunk.js"
   ]
 }
